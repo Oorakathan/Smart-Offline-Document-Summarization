@@ -1,0 +1,22 @@
+# SmartSummarizer Dependencies
+# Python version: >=3.11
+
+# Web Framework
+streamlit>=1.50.0
+
+# Document Parsing
+PyPDF2>=3.0.1
+python-docx>=1.2.0
+striprtf>=0.0.29
+odfpy>=1.4.1
+
+# Natural Language Processing
+nltk>=3.9.2
+spacy>=3.8.7
+
+# Machine Learning / Text Analysis
+scikit-learn>=1.7.2
+networkx>=3.5
+
+# Scientific Computing
+numpy>=1.24.0
